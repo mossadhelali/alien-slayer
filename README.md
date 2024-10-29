@@ -1,4 +1,5 @@
 # Alien Slayer
+![alt text](AlienSlayer.png)
 
 I developed this space shooter game back in 2014 as a project for my introduction to programming course (ICS201 @ KFUPM). Still proud of this little game :)
 
